@@ -84,18 +84,6 @@ Retail Price = Declared Value = (1688 Cost + ¥5) × 1.02 ÷ 0.413
 
 ---
 
-## 系统要求
-## Requirements
-
-> Windows 10+ / Google Chrome / Python 3.10+ / Playwright
-> 店小秘账号 + 已绑定的速卖通店铺
-> Dianxiaomi account with AliExpress store connected
-
-> Chrome 以调试模式启动：`--remote-debugging-port=9222`
-> Start Chrome in debug mode: `--remote-debugging-port=9222`
-
----
-
 ## 快速开始
 ## Quick Start
 
@@ -116,6 +104,27 @@ Retail Price = Declared Value = (1688 Cost + ¥5) × 1.02 ÷ 0.413
 
 ---
 
+## Requirements · 环境要求
+
+- AI assistant with Python execution + CDP browser control · 支持 Python 执行 + CDP 浏览器操控的 AI 助手
+- Google Chrome (your own login) · Chrome 浏览器（你自己的登录态）
+- Dianxiaomi ERP account · 店小秘 ERP 账号
+- Chrome launched in debug mode: `--remote-debugging-port=9222`
+
+---
+
+## License · 许可
+
+**AGPLv3 Dual License · 双许可**
+
+| Use Case · 使用场景 | License · 许可 |
+|------|---------|
+| Personal, non-commercial · 个人非商业 | AGPLv3 ✅ Free · 免费 |
+| Company ≤5 seats · 企业≤5人 | AGPLv3 ✅ Free · 免费 |
+| Company 6+ seats / Commercial · 企业6+人/商用 | [Contact us · 联系我们](mailto:Walter.x@qq.com) |
+
+---
+
 ## ⚠️ 重要提示
 ## Important Note
 
@@ -124,6 +133,12 @@ Retail Price = Declared Value = (1688 Cost + ¥5) × 1.02 ÷ 0.413
 
 ---
 
-*作者: Rigi AI Commons | 小红书 @瑞吉AI人民公社 | AI自动化专家工作流*
+## Contact · 联系
 
-*Author: Rigi AI Commons | Xiaohongshu @瑞吉AI人民公社 | AI Automation Expert Workflows*
+- 📕 RedNote · 小红书: [@瑞吉AI人民公社](https://www.xiaohongshu.com/user/profile/42084313799)
+- 📧 Walter.x@qq.com
+
+---
+
+*Rigi AI Commons — Reject AI echo chambers. Democratize practical AI for everyone.*
+*Rigi AI Commons — 拒绝 AI 小圈子自嗨，推动实用 AI 全面普惠。*
